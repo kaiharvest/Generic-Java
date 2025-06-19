@@ -2,7 +2,7 @@ package generic.aplication;
 
 import generic.MyData;
 
-public class Covariant {
+public class CovariantApp {
 	public static void main(String[] args) {
 
 		MyData<String> stringMyData = new MyData<>("Indra");

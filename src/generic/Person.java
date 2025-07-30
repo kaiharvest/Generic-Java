@@ -5,7 +5,6 @@ import java.util.Objects;
 public class Person implements Comparable<Person> {
 	private String name;
 	private String address;
-
 	public Person(String name, String address) {
 		this.name = name;
 		this.address = address;

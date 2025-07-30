@@ -3,7 +3,6 @@ package generic;
 import java.util.Objects;
 
 public class Person implements Comparable<Person> {
-
 	private String name;
 	private String address;
 
